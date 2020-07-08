@@ -1,2 +1,2 @@
-# Responsi-master
-Responsi-master
+# Responsi
+Master responsi
